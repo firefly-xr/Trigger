@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835243323059",
+    "project_id": "trigger-83429",
+    "storage_bucket": "trigger-83429.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835243323059:android:9707c45e8469edf93b8ac6",
+        "android_client_info": {
+          "package_name": "com.example.trigger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyk7kYr_cYZRO68-k4GOshGyTU2yvV94Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
