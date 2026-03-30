@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCRAvzGUl0pxjwmWvSQ7y6TpUNVjbaI0w0',
+    apiKey: '',
     appId: '1:835243323059:web:dda807d5d0d398583b8ac6',
     messagingSenderId: '835243323059',
     projectId: 'trigger-83429',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDyk7kYr_cYZRO68-k4GOshGyTU2yvV94Q',
+    apiKey: '',
     appId: '1:835243323059:android:9707c45e8469edf93b8ac6',
     messagingSenderId: '835243323059',
     projectId: 'trigger-83429',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCcwSb3bi1paGBOk2YMKyRKW5EV-QSyu74',
+    apiKey: '',
     appId: '1:835243323059:ios:2198f0a1ff7893f83b8ac6',
     messagingSenderId: '835243323059',
     projectId: 'trigger-83429',
